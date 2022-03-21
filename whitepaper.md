@@ -25,4 +25,4 @@ In our game, apart from NFT objects giving bonuses, there will be normal charact
 # Roadmap
 Stage 1 (End of Q4 2021)
 
-![Economic](../images/eco.png)
+![Economic](convicted-site-files/images/eco.png)
