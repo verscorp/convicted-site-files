@@ -17,3 +17,7 @@ We want to create a system of tracking players data with the consequent blocking
 To solve this problem we will invite experts in economics.
 4. Creation of the first NFT game with customization 
 In our game, apart from NFT objects giving bonuses, there will be normal character skins and illustrations.
+
+# Rules of the game
+- Multi-accounting is strictly forbidden. If we suspect you of this type of activity, you will be blocked and it will be nearly impossible for you to get back into the game. 
+- All foul play is forbidden. All accounts that try to hack the game will be blocked forever.
