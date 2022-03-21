@@ -25,4 +25,4 @@ In our game, apart from NFT objects giving bonuses, there will be normal charact
 # Roadmap
 Stage 1 (End of Q4 2021)
 
-![Economic](https://github.com/verscorp/convicted-site-files/blob/main/images/eco.png)
+![Economic](https://github.com/verscorp/convicted-site-files/blob/main/images/Criminal_record_Bank%20Robber_FULLHD.png)
