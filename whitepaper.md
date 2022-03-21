@@ -2,11 +2,11 @@
 
 The first version of the white paper was written in mid-2021, authored by Kirill Makhnev. All rights reserved and owned by Vers Corporation.
 
-### About the game
+# About the game
 You go to prison as an ordinary kid. In order to survive in these difficult conditions, you have to fight for the right to life. Fight with other prisoners and if you win you get a well-deserved reward - a cigarette. If you are strong in cooking, go to the kitchen and cook food. Start your journey of roofing business, conquering one prison after another.
 But not all victories are easy, some bosses can't be defeated alone. You'll have to assemble your own team or join someone else's team to kill the most powerful boss. Do not miss the opportunity to keep your physical form at an appropriate level. A convict without a tattoo is not a convict. So put a tattoo on your body - they will increase your credibility among the prisoners.
 
-### Аbout the game from the technical side
+# Аbout the game from the technical side
 Convicted is an NFT game built on blockchain technology. We use Binance Smart Chain and want to prove that a good crypto game can easily exist on this blockchain.
 We have several tasks before us that we want to to implement within this project:
 1. Blocking players who use multiple accounts 
