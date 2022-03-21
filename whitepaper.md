@@ -19,8 +19,10 @@ In our game, apart from NFT objects giving bonuses, there will be normal charact
 
 # Rules of the game
 
-- Multi-accounting is strictly forbidden. If we suspect you of this type of activity, you will be blocked and it will be nearly impossible for you to get back into the game. 
-- All foul play is forbidden. All accounts that try to hack the game will be blocked forever.
+> Multi-accounting is strictly forbidden. If we suspect you of this type of activity, you will be blocked and it will be nearly impossible for you to get back into the game. 
+> All foul play is forbidden. All accounts that try to hack the game will be blocked forever.
 
 # Roadmap
 Stage 1 (End of Q4 2021)
+
+![Economic](../images/eco.png)
