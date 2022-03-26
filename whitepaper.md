@@ -1,6 +1,6 @@
-# Whitepaper
+# Техническая документация Convicted
 
-The first version of the white paper was written in mid-2021, authored by Kirill Makhnev. All rights reserved and owned by Vers Corporation.
+Первая версия технической документации "Convicted" была написана в серидине 2021 года. Толчком для ее реализации послужило огромное колличество провальных P2E проектов без малешего желания понять и разобраться в технологии. Автором документации является Kirill Makhnev, а все права принадлежат компании Vers Corporation, штат Делавер. 
 
 # About the game
 You go to prison as an ordinary kid. In order to survive in these difficult conditions, you have to fight for the right to life. Fight with other prisoners and if you win you get a well-deserved reward - a cigarette. If you are strong in cooking, go to the kitchen and cook food. Start your journey of roofing business, conquering one prison after another.
