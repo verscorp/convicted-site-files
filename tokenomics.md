@@ -16,6 +16,8 @@ $CFOD (Food) - 300.000.000
 | Stacking Reward | 42 000 000,00    | 42,00 %    |
 | Total supply    | 100 000 000,00   | 100 %      |
 
+
+
 # Tokens
 There are three economic currencies in the game: Rubl, Cigarettes, and Food.
 Each currency will be tied to a specific token: Rubl, Cigarettes and Food correspond to tokens: CRUB (Rubl), CCIG (Cigarettes), CFOD (Food). 
