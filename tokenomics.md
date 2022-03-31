@@ -14,3 +14,4 @@ Total amount of tokens issued:
 
 # Distribution of funds received
 
+![Tokens](https://github.com/verscorp/convicted-site-files/blob/main/images/funds.png) 
