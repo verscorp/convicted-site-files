@@ -2,9 +2,9 @@
 > Any information described in tokenomics can change before the tokens are listed. 
 
 Total amount of tokens issued:
-- *$CCGI* (Cigarettes) - 300.000.000 
-- *$CRUB* (Rubl) - 300.000.000 
-- *$CFOD* (Food) - 300.000.000
+- $CCGI (Cigarettes) - 300.000.000 
+- $CRUB (Rubl) - 300.000.000 
+- $CFOD (Food) - 300.000.000
 
 ![Tokens](https://github.com/verscorp/convicted-site-files/blob/main/images/tokens.svg)
 
