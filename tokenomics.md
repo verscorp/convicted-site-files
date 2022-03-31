@@ -17,9 +17,7 @@ Game development - 30%
 > Most of the money will go to the development of the 3d version of the game, the development of the interface and internal mechanics of the game.
 
 Cash distribution pool for tokens - 15%
-> Each "Convicted" game token will generate passive income for its holders in the form of WAX tokens. Each token will receive 5% of all project revenues.
-
-You can read more about this in the white paper.
+> Each "Convicted" game token will generate passive income for its holders in the form of WAX tokens. Each token will receive 5% of all project revenues. You can read more about this in the white paper.
 
 Team - 15%
 > The Team will own 15% of each token of our project. These tokens will be locked in for 6 months completely with planned distribution.
@@ -32,5 +30,4 @@ Development fund - 10%
 
 Non-preliminary expenses - 5%
 
-Translated with www.DeepL.com/Translator (free version)
 ![Tokens](https://github.com/verscorp/convicted-site-files/blob/main/images/funds.png) 
