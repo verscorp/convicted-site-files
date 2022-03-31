@@ -18,5 +18,5 @@ Total amount of tokens issued:
 | Stacking Reward | 42 000 000,00    | 42,00 %    |
 | Total supply    | 100 000 000,00   | 100 %      |
 
-
+# Allocation tokens
 
