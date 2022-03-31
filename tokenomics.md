@@ -2,9 +2,11 @@
 > Any information described in tokenomics can change before the tokens are listed. 
 
 Total amount of tokens issued:
-- $CCGI (Cigarettes) - 300.000.000 
-- $CRUB (rubles) - 300.000.000 
-- $CFOD (Food) - 300.000.000
+- *$CCGI* (Cigarettes) - 300.000.000 
+- *$CRUB* (Rubl) - 300.000.000 
+- *$CFOD* (Food) - 300.000.000
+
+![Tokens](https://github.com/verscorp/convicted-site-files/blob/main/images/tokens.svg)
 
 # Allocation tokens
 
@@ -18,10 +20,3 @@ Total amount of tokens issued:
 
 
 
-# Tokens
-There are three economic currencies in the game: Rubl, Cigarettes, and Food.
-Each currency will be tied to a specific token: Rubl, Cigarettes and Food correspond to tokens: CRUB (Rubl), CCIG (Cigarettes), CFOD (Food). 
-
-![Tokens](https://github.com/verscorp/convicted-site-files/blob/main/images/tokens.svg)
-
-> We have plans to add more tokens in the future. 
