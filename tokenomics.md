@@ -2,9 +2,9 @@
 > Any information described in tokenomics can change before the tokens are listed. 
 
 Total amount of tokens issued:
-$CCGI (Cigarettes) - 300.000.000 
-$CRUB (rubles) - 300.000.000 
-$CFOD (Food) - 300.000.000
+- $CCGI (Cigarettes) - 300.000.000 
+- $CRUB (rubles) - 300.000.000 
+- $CFOD (Food) - 300.000.000
 
 # Allocation tokens
 
