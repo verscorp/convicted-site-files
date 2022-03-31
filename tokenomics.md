@@ -6,7 +6,9 @@ Total amount of tokens issued:
 - $CRUB (Rubl) - 300.000.000 
 - $CFOD (Food) - 300.000.000
 
-![Tokens](https://github.com/verscorp/convicted-site-files/blob/main/images/tokens.svg) { width: 200px; }
+![Tokens](https://github.com/verscorp/convicted-site-files/blob/main/images/tokens.svg) 
+
+
 
 # Allocation tokens
 
