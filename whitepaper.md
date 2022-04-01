@@ -174,9 +174,9 @@ There will be many different NFT items in the game. They will be divided into th
 - Intermediary 
 - Custom
 
-![Chema](https://github.com/verscorp/convicted-site-files/blob/main/images/first.png)
-
 **In-game**
+![C1](https://github.com/verscorp/convicted-site-files/blob/main/images/first.png)
+
 This list of NFTs includes: 
 - Weapons.
 - Types of crime
@@ -184,6 +184,8 @@ This list of NFTs includes:
 These are the basic NFTs with which the player begins to earn resources.
 
 **Intermediate**
+![C1](https://github.com/verscorp/convicted-site-files/blob/main/images/first.png)
+
 These NFTs are somewhere between custom items and in-game items for earning. 
 
 These include:
@@ -193,6 +195,7 @@ These include:
 - Expendables
 
 **Custom**
+![C1](https://github.com/verscorp/convicted-site-files/blob/main/images/first.png)
 
 This list includes:
 - Prison Cameras
