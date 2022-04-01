@@ -30,10 +30,18 @@ This system should solve the following problems:
 
 # Tokens information
 There are three economic currencies in the game: "Rubl", "Cigarettes", "Food", as well as two resources: "Authority", "Energy" and one indicator "Level". All of these parameters will interact with each other and create an economic balance.
+
 Each currency will be tied to a specific token: Rubl, Cigarettes and Food correspond to tokens: CRUB (Rubl), CCIG (Cigarettes), CFOD (Food). Thus, you will not only be able to get the game currency you need with NFT, but also buy it from the market. 
 
 ![Tokens](https://github.com/verscorp/convicted-site-files/blob/main/images/tokens.svg) 
 
 >You can exchange the game currency for tokens at any time, but you will be charged a certain amount of WAX tokens
 
+# How does it work?
+Initially, a certain amount of energy is spent along with the NFT item. Rewards are determined according to the level of the "jail space" to which the NFT item belongs, the average NFT mining, the amount of NFT and the mining time.
 
+The type of resource is determined by the type of NFT.
+
+![Chema](https://github.com/verscorp/convicted-site-files/blob/main/images/chema.svg)
+
+>Read the Whitepaper in its entirety to understand the finer points of the game.
