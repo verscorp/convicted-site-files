@@ -42,7 +42,7 @@ Initially, a certain amount of energy is spent along with the NFT item. Rewards 
 
 The type of resource is determined by the type of NFT.
 
-![Chema](https://github.com/verscorp/convicted-site-files/blob/main/images/cxema.svg)
+![Chema](https://github.com/verscorp/convicted-site-files/blob/main/images/cxema.png)
 
 Earned currency can be spent on crafting new NFT, repair items, as well as exchange for tokens, withdrawal to a purse and sell on the stock exchange.
 
