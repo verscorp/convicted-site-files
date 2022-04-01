@@ -9,7 +9,9 @@ Our main goal for the project is its economic sustainability, which will be work
 
 I hope we can do it =)
 
->In the game, we will implement the hypothesis that the tokens of the game will be stocks, where there are winners and losers. We think that our game will have a cyclical market due to the economic mechanics that you will learn about next. ![Tokens](https://berqproperties.com/wp-content/uploads/2020/02/Economic-Cycle.jpg) 
+>In the game, we will implement the hypothesis that the tokens of the game will be stocks, where there are winners and losers. We think that our game will have a cyclical market due to the economic mechanics that you will learn about next. 
+
+![Tokens](https://berqproperties.com/wp-content/uploads/2020/02/Economic-Cycle.jpg) 
 
 # About the game
 You go to prison as an ordinary kid. In order to survive in these difficult conditions, you have to fight for the right to life. Fight with other prisoners and if you win you get a well-deserved reward - a cigarette. If you are strong in cooking, go to the kitchen and cook food. Start your journey of roofing business, conquering one prison after another.
