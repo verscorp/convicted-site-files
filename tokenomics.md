@@ -9,7 +9,7 @@ Total amount of tokens issued:
 ![Tokens](https://github.com/verscorp/convicted-site-files/blob/main/images/tokens.svg) 
 
 # Allocation tokens
-
+Token allocation data will be available once the future project is determined.
 
 
 # Distribution of funds received
@@ -36,6 +36,10 @@ This fund will shape the future development of our infrastructure and company in
 
 >**Marketing - 5%**
 
+
 >**Non-preliminary expenses - 5%**
 
 ![Tokens](https://github.com/verscorp/convicted-site-files/blob/main/images/funds.png) 
+
+Be sure to read about the [project's DAO and getting WAX tokens for owning internal game tokens](http://161.35.217.137:9000/token-information).
+
