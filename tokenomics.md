@@ -13,31 +13,29 @@ Total amount of tokens issued:
 
 
 # Distribution of funds received
->**Game development - 25%
+>**Game development - 25%**
 
 Most of the money will go to the development of the 3d version of the game, the development of the interface and internal mechanics of the game.
 
->**Cash distribution pool for tokens - 15%
+>**Cash distribution pool for tokens - 15%**
 
 Each "Convicted" game token will generate passive income for its holders in the form of WAX tokens. Each token will receive 5% of all project revenues.
 You can read more about this in the [WhitePaper](http://161.35.217.137:9000/whitepaper).
 
->**Team - 15%
+>**Team - 15%**
 
 The Team will own 15% of each token of our project. These tokens will be locked in for 6 months completely with planned distribution.
 
->**Liquidity - 25%
+>**Liquidity - 25%**
 
 We will take care of the liquidity of our tokens. Our plan is to regularly replenish the pools of tokens, so as not to traumatize the market.
 
->**Development fund - 10%
+>**Development fund - 10%**
 
 This fund will shape the future development of our infrastructure and company in P2E game technology. We plan to please you in the future with even more serious games in this direction.
 
->**Marketing - 5%
+>**Marketing - 5%**
 
->**Non-preliminary expenses - 5%
-
-
+>**Non-preliminary expenses - 5%**
 
 ![Tokens](https://github.com/verscorp/convicted-site-files/blob/main/images/funds.png) 
