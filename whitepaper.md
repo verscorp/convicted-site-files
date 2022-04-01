@@ -174,7 +174,7 @@ There will be many different NFT items in the game. They will be divided into th
 - Intermediary 
 - Custom
 
-![Chema](https://github.com/verscorp/convicted-site-files/blob/main/images/cxema.png)
+![Chema](https://github.com/verscorp/convicted-site-files/blob/main/images/first.png)
 
 **In-game**
 This list of NFTs includes: 
