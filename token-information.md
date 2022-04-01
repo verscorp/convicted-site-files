@@ -6,7 +6,7 @@ This applies to all tokens - CRUB (Ruble), CCIG (Cigarettes), CFOD (Food).
 
 >We will redirect 15% of revenue from all sales to project tokens. A portion of the money generated from the sale of NFTs will be formed into a specific cash pool in the form of WAX tokens. This pool will be spread over months so as not to traumatize the market.
 
-# Example
+## Example
 Example: By buying or earning a % of any of the three tokens of our game, you will receive a % of income from all game sales in the form of WAX.
 
 - Our game's income is made up of:
@@ -17,7 +17,7 @@ Example: By buying or earning a % of any of the three tokens of our game, you wi
 
 >Income in the form of WAX can be withdrawn once a month. The day of eligibility will be random.
 
-# What form will this take?
+## What form will this take?
 It's very simple, in the game itself once a month you have the opportunity to pick up your WAX.
 
 >The amount of WAX you receive will depend on the number of WAX tokens in your account. 
@@ -28,6 +28,12 @@ This system should solve the following problems:
 - Attract large investors in internal tokens
 - Will make it more meaningful for players to retain internal tokens from sale
 
+# Tokens information
+There are three economic currencies in the game: "Rubl", "Cigarettes", "Food", as well as two resources: "Authority", "Energy" and one indicator "Level". All of these parameters will interact with each other and create an economic balance.
+Each currency will be tied to a specific token: Rubl, Cigarettes and Food correspond to tokens: CRUB (Rubl), CCIG (Cigarettes), CFOD (Food). Thus, you will not only be able to get the game currency you need with NFT, but also buy it from the market. 
 
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
-My favorite search engine is [Duck Duck Go222](/tokenomics "SOMETHING").
+![Tokens](https://github.com/verscorp/convicted-site-files/blob/main/images/tokens.svg) 
+
+>You can exchange the game currency for tokens at any time, but you will be charged a certain amount of WAX tokens
+
+
