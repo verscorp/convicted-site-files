@@ -14,6 +14,7 @@ Total amount of tokens issued:
 
 # Distribution of funds received
 >Game development - 25%
+
 Most of the money will go to the development of the 3d version of the game, the development of the interface and internal mechanics of the game.
 
 >Cash distribution pool for tokens - 15%
