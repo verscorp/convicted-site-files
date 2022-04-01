@@ -44,4 +44,7 @@ The type of resource is determined by the type of NFT.
 
 ![Chema](https://github.com/verscorp/convicted-site-files/blob/main/images/cxema.svg)
 
+Earned currency can be spent on crafting new NFT, repair items, as well as exchange for tokens, withdrawal to a purse and sell on the stock exchange.
+
 >Read the [Whitepaper](http://161.35.217.137:9000/whitepaper) in its entirety to understand the finer points of the game.
+© All intellectual property rights belong to Vers Corporation, Delaware.
