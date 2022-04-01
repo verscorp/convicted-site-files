@@ -4,7 +4,7 @@ The first version of the "Convicted" technical documentation was written in the 
 
 >The author of the documentation is Kirill Makhnev and all rights belong to Vers Corporation, Delaware. 
 
-# Our goal
+### Our goal
 Our main goal for the project is its economic sustainability, which will be worked out down to the smallest detail. We want to show developers and players that blockchain games are not a scam, but a technology with great future potential if developed responsibly and with understanding.
 
 I hope we can do it =)
