@@ -42,6 +42,6 @@ Initially, a certain amount of energy is spent along with the NFT item. Rewards 
 
 The type of resource is determined by the type of NFT.
 
-![Chema](https://github.com/verscorp/convicted-site-files/blob/main/images/chema.svg)
+![Chema](https://github.com/verscorp/convicted-site-files/blob/main/images/cxema.svg)
 
 >Read the [Whitepaper](http://161.35.217.137:9000/whitepaper) in its entirety to understand the finer points of the game.
