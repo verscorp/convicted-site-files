@@ -42,5 +42,6 @@ This fund will shape the future development of our infrastructure and company in
 ![Tokens](https://github.com/verscorp/convicted-site-files/blob/main/images/funds.png) 
 
 Be sure to read about the [project's DAO and getting WAX tokens for owning internal game tokens](http://161.35.217.137:9000/token-information).
+
 Read our [WhitePaper](http://161.35.217.137:9000/whitepaper)
 
