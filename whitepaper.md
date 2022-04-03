@@ -215,12 +215,16 @@ They do not give an advantage to the players, but will reflect only your authori
 
 ### Parameters of gaming NFTs
 Gaming NFTs have a classification and metrics.
+
 **Classification**
+
 - Type
 - Type
 - Rarity
 - Level Availability
+- 
 **Indicators**
+
 - Strength
 - Chance of Critical Mining
 - Hourly extraction of currency (Cigarettes or Rubles or Food)
