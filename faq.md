@@ -1,13 +1,17 @@
-![Economic](images/eco.png)
+# What is Convicted?
+Convicted is a P2E game on the WAX blockchain in the smart farming genre. You will have to mine resources, fight bosses, and take over the prison business. 
+We're trying to bring new elements to the P2E genre that will give players a new perspective on this area.
 
-# Convicted Whitepaper 1
+We strive to create things like:
+- In-game friend additions
+A large community that can interact with each other. The more friends you have, the faster you'll get through prison challenges
+- Cooperative battles against bosses and each other
+Competitions and wins in our events will be rewarded. Leaderboards for players who are the first to reach heights or regional leaderboards.
+- The first NFT game with good customization
+We plan to sell limited quantities of items that will only improve the appearance of your character.
+- Level dependency
+A leveled account in our game will have value. The higher your level, the more profitable
 
-There are three economic currencies in the game: "Rubl", "Cigarettes", "Food", as well as two resources: "Authority", "Energy" and one indicator "Level". All of these parameters will interact with each other and create an economic balance. 
+Read our [WhitePaper](http://161.35.217.137:9000/whitepaper)
+Learn about the development [Team](http://161.35.217.137:9000/CONTRIBUTORS)
 
-# About the game
-
-This introductory paper was originally published in 2013 by Vitalik Buterin, the founder of Ethereum, before the project's launch in 2015. It's worth noting that Ethereum, like many community-driven, open-source software projects, has evolved since its initial inception.
-
-While several years old, we maintain this paper because it continues to serve as a useful reference and an accurate representation of Ethereum and its vision. To learn about the latest developments of Ethereum, and how changes to the protocol are made, we recommend this guide. 
-
-![Economic](images/eco.png)
