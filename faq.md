@@ -29,4 +29,15 @@ Each currency will be tied to a specific token: Rubl, Cigarettes, and Food corre
 Learn more about token games: [token holding rewards](http://161.35.217.137:9000/token-information) and [tokenomics](http://161.35.217.137:9000/tokenomics).
 
 # Where and how to buy internal tokens?
-Tokens can be purchased on the [Alcor](https://wax.alcor.exchange) -  exchange when they become available there.
+Tokens can be purchased on the [Alcor exchange](https://wax.alcor.exchange) when they become available there.
+
+You need to connect your Wax Cloud Wallet or Anchor wallet to the Alcor exchange. Click Market and find our token pairs, which will be published here in the near future.
+
+# When is the game scheduled to come out?
+Initially, we give ourselves a lot more time to prepare, and we put the game's release date at the end of the third quarter of 2022.
+
+We plan to release the game on the main network immediately in 3d so that we can sell custom stuff from the first release.
+
+Before that, we will have a strong beta test where we have to do everything we promise.
+
+
