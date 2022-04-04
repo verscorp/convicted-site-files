@@ -20,4 +20,13 @@ A leveled account in our game will have value. The higher your level, the more p
 
 >Learn about the development [Team](http://161.35.217.137:9000/CONTRIBUTORS)
 
-# What is Convicted?
+# What are internal tokens?
+Internal tokens are tokens of our game. You can earn them with in-game NFTs or buy them on the Alcor exchange.
+
+There are three economic currencies in the game: "Rubls", "Cigarettes", and "Food".
+Each currency will be tied to a specific token: Rubl, Cigarettes, and Food correspond to tokens: CRUB (Rubl), CSUG (Cigarettes), CFOD (Food).
+
+Learn more about token games: [token holding rewards](http://161.35.217.137:9000/token-information) and [tokenomics](http://161.35.217.137:9000/tokenomics).
+
+# Where and how to buy internal tokens?
+Tokens can be purchased on the [Alcor](https://wax.alcor.exchange) -  exchange when they become available there.
