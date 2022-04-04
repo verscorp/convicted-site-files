@@ -16,6 +16,8 @@ We plan to sell limited quantities of items that will only improve the appearanc
 
 A leveled account in our game will have value. The higher your level, the more profitable
 
-Read our [WhitePaper](http://161.35.217.137:9000/whitepaper)
-Learn about the development [Team](http://161.35.217.137:9000/CONTRIBUTORS)
+>Read our [WhitePaper](http://161.35.217.137:9000/whitepaper)
 
+>Learn about the development [Team](http://161.35.217.137:9000/CONTRIBUTORS)
+
+# What is Convicted?
