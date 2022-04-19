@@ -14,6 +14,8 @@ To receive free NFT you must:
 
 Whitelist will last up to 5000 participants in the discord server. After that we'll let you know how to get your NFT.
 
+![Bag](https://github.com/verscorp/convicted-site-files/blob/main/images/Bag.png)
+
 >Q: How do I invite people to the discord server?
 
 >A: https://support.discord.com/hc/en-us/articles/204155938-How-do-I-invite-friends-to-my-server-
