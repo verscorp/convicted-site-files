@@ -15,14 +15,15 @@ To receive free NFT you must:
 Whitelist will last up to 5000 participants in the discord server. After that we'll let you know how to get your NFT.
 
 >Q: How do I invite people to the discord server?
+
 >A: https://support.discord.com/hc/en-us/articles/204155938-How-do-I-invite-friends-to-my-server-
 
 >Q: How do I check how many people I invited?
+
 >A: To check how many invited friends we have a specific channel invites, in which there are two commands:
 
-invites - the number of users you invited.
-
-leaderboard invites - the table of leaders.
+/invites - th number of users you invited.
+/leaderboard invites - the table of leaders.
 
 (It is important that the invited user is a person who has not left the server during the whole period of the whitelist - "regular").
 
