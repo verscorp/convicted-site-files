@@ -9,8 +9,8 @@ Hey, guys. This is our first test news. It's slanted, it's crooked, but it's on 
 Dear inmates, we are announcing the first guaranteed whitelist to receive free NFT.
 
 To receive free NFT you must:
-1. Invite 15 people to the discord server ["Convicted"](https://www.discord.gg/convicted).
-2. Subscribe to our [Twitter](https://www.twitter.com/convictednft)
+1. Invite 15 people to the discord server https://www.discord.gg/convicted
+2. Subscribe to our https://www.twitter.com/convictednft
 
 Whitelist will last up to 5000 participants in the discord server. After that we'll let you know how to get your NFT.
 
