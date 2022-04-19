@@ -23,6 +23,7 @@ Whitelist will last up to 5000 participants in the discord server. After that we
 >A: To check how many invited friends we have a specific channel invites, in which there are two commands:
 
 /invites - th number of users you invited.
+
 /leaderboard invites - the table of leaders.
 
 (It is important that the invited user is a person who has not left the server during the whole period of the whitelist - "regular").
