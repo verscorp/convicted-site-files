@@ -1,4 +1,4 @@
-# First test news
+# Whitelist to receive free NFT
 
 ###### April 12, 2022 ######
 
